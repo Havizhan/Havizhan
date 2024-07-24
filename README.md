@@ -2,7 +2,6 @@
 # <p align="center"> `Good Night' </p>
 
 <img align="center" alt="Furina" width="400" src="https://github.com/Havizhan/Havizhan/assets/145414931/547e0f4e-ce0a-431f-b079-fd482484d016">
-![Furina (1)](https://github.com/Havizhan/Havizhan/assets/145414931/547e0f4e-ce0a-431f-b079-fd482484d016)
 
 - 👋 Hi, I’m @Havizhan
 - 👀 I’m interested in ...
