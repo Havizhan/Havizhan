@@ -1,4 +1,4 @@
-<h1 align="center">Good Night</h1>
+<h1 align="center">`Good Night'</h1>
 
 <p align="center">
   <img src="https://github.com/Havizhan/Havizhan/assets/145414931/547e0f4e-ce0a-431f-b079-fd482484d016" alt="Furina" width="400">
